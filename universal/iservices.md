@@ -1,3 +1,7 @@
+# UPDATE Dec 6, 2024
+
+There seems to be an easier solution to this. The root cause for being unable to sign into iCloud accounts, at least in some cases, might be that [Advanced Data Protection for iCloud](https://support.apple.com/en-us/108756#:~:text=Advanced%20Data%20Protection%20for%20iCloud%20is%20an%20optional%20setting%20that,end%2Dto%2Dend%20encryption.) is turned on for another device that is linked to the same iCloud account. Simply switching off Advanced Data Protection on every other iDevice solved the problem for me.
+
 # Fixing iMessage and other services with OpenCore
 
 This page is for those having iMessage and other iServices issues, this is a very basic guide so will not go as in-depth into the issues as some other guides. This specific guide is a translation and reinterpretation of the AppleLife Guide on fixing iServices: [Как завести сервисы Apple - iMessage, FaceTime, iCloud](https://applelife.ru/posts/727913).
