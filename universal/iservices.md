@@ -1,6 +1,6 @@
 <<<<<<< Updated upstream
 =======
-# UPDATE December 2024 -- Possible easier solution
+# UPDATE January 2025 -- Possible easier solution
 
 There seems to be an easier way as the root cause for not being able to sign into iCloud might be that Advanced Data Protection is turned on for another device  that is linked to the iCloud account. Simply turn off Advanced Data Protection for all iDevices and you should be good to go. 
 
